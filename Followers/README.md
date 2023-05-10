@@ -1,6 +1,10 @@
 # spotify-account-follower
 i know the code is shit
+![](https://img.shields.io/badge/platform-Linux%20%7C%20KaliLinux%20%7C%20ParrotOs-blue)
+  
+  ![image](https://user-images.githubusercontent.com/102762968/161622560-22f88eae-709e-4c07-a66e-8147dd3d43dd.png)
 
+</div>
 
 put the id in config.json and dont be a twat with the code
 
