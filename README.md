@@ -1,6 +1,9 @@
 # Spotify Account Creator + Follower 
  Spotify Account Creator + Follow account or playlist with fully httpx request based. If an error occurs, please report it via [issues](https://github.com/tahaluindo/Spotify-Account-Creator/issues/new).
 
+## Credit
+[seadhy](SEADHY)
+
 ## 💻 Preview
 
 https://user-images.githubusercontent.com/82868382/210181254-28da72a7-52c9-4bb1-9614-734174d78262.mp4
