@@ -29,6 +29,9 @@ https://user-images.githubusercontent.com/82868382/210181254-28da72a7-52c9-4bb1-
 - ❌  250 Stars | Change Password (Accounts don't die with this)
 
 ## ✍️ Usage
+
+download python [CLICK](https://www.python.org/downloads/release/python-3113/)
+
 1. Run `install.bat`
 
 2. Edit the `config.json` file
